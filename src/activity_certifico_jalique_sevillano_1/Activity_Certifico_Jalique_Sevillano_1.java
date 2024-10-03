@@ -18,5 +18,8 @@ public class Activity_Certifico_Jalique_Sevillano_1 {
          float div = c / b / a;
         System.out.println(" Division: "+div);
        
+        
+        NewClass min = new NewClass();
+        min.MeanFunction();
     }   
 }
